@@ -5,5 +5,5 @@ QA Automation Engineer with 3 years of experience building and maintaining autom
 - 🔧 **Currently:** Building API, UI, and mobile test automation at Emumba
 - 🧪 **Focus:** Java, TypeScript, Selenium, Serenity-Cucumber, Playwright, Appium, WebDriverIO
 - 🔁 **CI/CD:** GitHub Actions, regression pipelines, and automated HTML reporting
-- 🌱 **Learning:** Continuing to grow in test automation and quality engineering
+- 🌱 **Learning:** Transitioning from QA automation into AI engineering
 - 📫 **Contact:** amnazeeshann21@gmail.com | [LinkedIn](https://linkedin.com/in/amnazeeshan21)
